@@ -71,16 +71,19 @@ git push origin new-contributions
 3. Provide a descriptive title and overview of your changes.
 4. Submit the Pull Request.
 
+## Wanna get connected?
+
+Feel free to open an issue to start a discussion or ask questions. You can reach out to me via:
+
+- **WhatsApp:** [+91 8658138197](https://wa.me/918658138197)
+- **Email:** [paroimethu@gmail.com](mailto:paroimethu@gmail.com)
+
 <i>[NB: Maintain a consistent code style to ensure readability. Use descriptive variable and function names. Comment your code to explain the approach and any intricate parts.]</i>
 
-#### Strivers A2Z DSA Course/Sheet
-
-<a href="https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/" target="_blank">A2Z DSA Course</a>
+#### Strivers A2Z DSA Course/Sheet: <a href="https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/" target="_blank">A2Z DSA Course</a>
 
 
-#### Striver’s SDE Sheet – Top Coding Interview Problems
-
-<a href="https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/" target="_blank">Top Coding Interview Problems</a>
+#### Striver’s SDE Sheet – Top Coding Interview Problems: <a href="https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/" target="_blank">Top Coding Interview Problems</a>
 
 <table>
   <thead>
