@@ -113,7 +113,7 @@ Feel free to open an issue to start a discussion or ask questions. You can reach
       <td align="center">Easy</td>
       <td align="center">🟢</td>
       <td align="center">✅</td>
-      <td align="center"><a href="#" target="_blank">Selection sorted Array</a></td>
+      <td align="center"><a href="https://github.com/MethuParoi/DSA-1--100/blob/main/code/bubble-sort.cpp" target="_blank">Bubble sorted Array</a></td>
     </tr>
     
     
