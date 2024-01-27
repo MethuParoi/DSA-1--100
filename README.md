@@ -95,6 +95,7 @@ Feel free to open an issue to start a discussion or ask questions. You can reach
       <th>Signal</th>
       <th>Status</th>
       <th>Solution</th>
+      <th>Striver's Sheet</th>
     </tr>
   </thead>
   <tbody>
@@ -109,6 +110,7 @@ Feel free to open an issue to start a discussion or ask questions. You can reach
       <td align="center">🟢</td>
       <td align="center">✅</td>
       <td align="center"><a href="https://github.com/MethuParoi/DSA-1--100/blob/main/code/selection-sort.cpp" target="_blank">Selection sorted Array</a></td>
+      <td align="center"><a href="https://takeuforward.org/sorting/selection-sort-algorithm/" target="_blank"> Selection Sort of Array</a></td>
     </tr>
     <tr>
       <td align="center"><a href="https://www.codingninjas.com/studio/problems/selection-sort_624469?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf" target="_blank"> Bubble Sort of Array</a></td>
@@ -116,6 +118,7 @@ Feel free to open an issue to start a discussion or ask questions. You can reach
       <td align="center">🟢</td>
       <td align="center">✅</td>
       <td align="center"><a href="https://github.com/MethuParoi/DSA-1--100/blob/main/code/bubble-sort.cpp" target="_blank">Bubble sorted Array</a></td>
+      <td align="center"><a href="https://takeuforward.org/data-structure/bubble-sort-algorithm/" target="_blank"> Bubble Sort of Array</a></td>
     </tr>
     <tr>
       <td align="center"><a href="https://www.codingninjas.com/studio/problems/insertion-sort_624381?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf" target="_blank">Insertion Sort of Array</a></td>
@@ -123,6 +126,7 @@ Feel free to open an issue to start a discussion or ask questions. You can reach
       <td align="center">🟢</td>
       <td align="center">✅</td>
       <td align="center"><a href="https://github.com/MethuParoi/DSA-1--100/blob/main/code/insertion-sort.cpp" target="_blank">Insertion sorted Array</a></td>
+      <td align="center"><a href="https://takeuforward.org/data-structure/insertion-sort-algorithm/" target="_blank">Insertion Sort of Array</a></td>
     </tr>
     <tr>
       <td align="center"><a href="https://www.codingninjas.com/studio/problems/merge-sort_5846?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf" target="_blank">Merge Sort of Array</a></td>
@@ -130,6 +134,7 @@ Feel free to open an issue to start a discussion or ask questions. You can reach
       <td align="center">🟡</td>
       <td align="center">✅</td>
       <td align="center"><a href="https://github.com/MethuParoi/DSA-1--100/blob/main/code/merge-sort.cpp" target="_blank">Merge sorted Array</a></td>
+      <td align="center"><a href="https://takeuforward.org/data-structure/merge-sort-algorithm/" target="_blank">Merge Sort of Array</a></td>
     </tr>
     
     
