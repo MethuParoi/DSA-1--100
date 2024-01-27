@@ -85,6 +85,8 @@ Feel free to open an issue to start a discussion or ask questions. You can reach
 
 #### Striver’s SDE Sheet – Top Coding Interview Problems: <a href="https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/" target="_blank">Top Coding Interview Problems</a>
 
+<!-- hard = "🔴" -->
+
 <table>
   <thead>
     <tr>
@@ -121,6 +123,13 @@ Feel free to open an issue to start a discussion or ask questions. You can reach
       <td align="center">🟢</td>
       <td align="center">✅</td>
       <td align="center"><a href="https://github.com/MethuParoi/DSA-1--100/blob/main/code/insertion-sort.cpp" target="_blank">Insertion sorted Array</a></td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://www.codingninjas.com/studio/problems/merge-sort_5846?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf" target="_blank">Merge Sort of Array</a></td>
+      <td align="center">Medium</td>
+      <td align="center">🟡</td>
+      <td align="center">✅</td>
+      <td align="center"><a href="" target="_blank">Merge sorted Array</a></td>
     </tr>
     
     
