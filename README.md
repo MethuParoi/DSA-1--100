@@ -136,7 +136,14 @@ Feel free to open an issue to start a discussion or ask questions. You can reach
       <td align="center"><a href="https://github.com/MethuParoi/DSA-1--100/blob/main/code/merge-sort.cpp" target="_blank">Merge sorted Array</a></td>
       <td align="center"><a href="https://takeuforward.org/data-structure/merge-sort-algorithm/" target="_blank">Merge Sort of Array</a></td>
     </tr>
-    
+    <tr>
+      <td align="center"><a href="https://www.codingninjas.com/studio/problems/merge-sort_5846?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf" target="_blank">Quick Sort of Array</a></td>
+      <td align="center">Medium</td>
+      <td align="center">🟡</td>
+      <td align="center">✅</td>
+      <td align="center"><a href="" target="_blank">Quick sorted Array</a></td>
+      <td align="center"><a href="https://takeuforward.org/data-structure/quick-sort-algorithm/" target="_blank">Quick Sort of Array</a></td>
+    </tr>
     
   </tbody>
 </table>
