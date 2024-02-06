@@ -154,7 +154,7 @@ Feel free to open an issue to start a discussion or ask questions. You can reach
       <td align="center">Easy</td>
       <td align="center">🟢</td>
       <td align="center">✅</td>
-      <td align="center"><a href="" target="_blank">Reverse The String</a></td>
+      <td align="center"><a href="https://github.com/MethuParoi/DSA-1--100/blob/main/code/String/344.reverse-string.cpp" target="_blank">Reverse The String</a></td>
       <td align="center"><a href="#" target="_blank">Reverse The String</a></td>
     </tr>
 
