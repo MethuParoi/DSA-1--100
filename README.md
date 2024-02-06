@@ -109,7 +109,7 @@ Feel free to open an issue to start a discussion or ask questions. You can reach
       <td align="center">Easy</td>
       <td align="center">🟢</td>
       <td align="center">✅</td>
-      <td align="center"><a href="https://github.com/MethuParoi/DSA-1--100/blob/main/code/selection-sort.cpp" target="_blank">Selection sorted Array</a></td>
+      <td align="center"><a href="https://github.com/MethuParoi/DSA-1--100/blob/main/code/Sorting/selection-sort.cpp" target="_blank">Selection sorted Array</a></td>
       <td align="center"><a href="https://takeuforward.org/sorting/selection-sort-algorithm/" target="_blank"> Selection Sort of Array</a></td>
     </tr>
     <tr>
@@ -117,7 +117,7 @@ Feel free to open an issue to start a discussion or ask questions. You can reach
       <td align="center">Easy</td>
       <td align="center">🟢</td>
       <td align="center">✅</td>
-      <td align="center"><a href="https://github.com/MethuParoi/DSA-1--100/blob/main/code/bubble-sort.cpp" target="_blank">Bubble sorted Array</a></td>
+      <td align="center"><a href="https://github.com/MethuParoi/DSA-1--100/blob/main/code/Sorting/bubble-sort.cpp" target="_blank">Bubble sorted Array</a></td>
       <td align="center"><a href="https://takeuforward.org/data-structure/bubble-sort-algorithm/" target="_blank"> Bubble Sort of Array</a></td>
     </tr>
     <tr>
@@ -125,7 +125,7 @@ Feel free to open an issue to start a discussion or ask questions. You can reach
       <td align="center">Easy</td>
       <td align="center">🟢</td>
       <td align="center">✅</td>
-      <td align="center"><a href="https://github.com/MethuParoi/DSA-1--100/blob/main/code/insertion-sort.cpp" target="_blank">Insertion sorted Array</a></td>
+      <td align="center"><a href="https://github.com/MethuParoi/DSA-1--100/blob/main/code/Sorting/insertion-sort.cpp" target="_blank">Insertion sorted Array</a></td>
       <td align="center"><a href="https://takeuforward.org/data-structure/insertion-sort-algorithm/" target="_blank">Insertion Sort of Array</a></td>
     </tr>
     <tr>
@@ -133,7 +133,7 @@ Feel free to open an issue to start a discussion or ask questions. You can reach
       <td align="center">Medium</td>
       <td align="center">🟡</td>
       <td align="center">✅</td>
-      <td align="center"><a href="https://github.com/MethuParoi/DSA-1--100/blob/main/code/merge-sort.cpp" target="_blank">Merge sorted Array</a></td>
+      <td align="center"><a href="https://github.com/MethuParoi/DSA-1--100/blob/main/code/Sorting/merge-sort.cpp" target="_blank">Merge sorted Array</a></td>
       <td align="center"><a href="https://takeuforward.org/data-structure/merge-sort-algorithm/" target="_blank">Merge Sort of Array</a></td>
     </tr>
     <tr>
@@ -141,7 +141,7 @@ Feel free to open an issue to start a discussion or ask questions. You can reach
       <td align="center">Medium</td>
       <td align="center">🟡</td>
       <td align="center">✅</td>
-      <td align="center"><a href="https://github.com/MethuParoi/DSA-1--100/blob/main/code/quick-sort.cpp" target="_blank">Quick sorted Array</a></td>
+      <td align="center"><a href="https://github.com/MethuParoi/DSA-1--100/blob/main/code/Sorting/quick-sort.cpp" target="_blank">Quick sorted Array</a></td>
       <td align="center"><a href="https://takeuforward.org/data-structure/quick-sort-algorithm/" target="_blank">Quick Sort of Array</a></td>
     </tr>
     <tr>
