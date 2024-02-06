@@ -101,7 +101,7 @@ Feel free to open an issue to start a discussion or ask questions. You can reach
   <tbody>
     <tr>
       <td colspan="5" align="center">
-        <strong>Array / String</strong>
+        <strong>Array</strong>
       </td>
     </tr>
     <tr>
@@ -144,6 +144,22 @@ Feel free to open an issue to start a discussion or ask questions. You can reach
       <td align="center"><a href="https://github.com/MethuParoi/DSA-1--100/blob/main/code/quick-sort.cpp" target="_blank">Quick sorted Array</a></td>
       <td align="center"><a href="https://takeuforward.org/data-structure/quick-sort-algorithm/" target="_blank">Quick Sort of Array</a></td>
     </tr>
+    <tr>
+      <td colspan="5" align="center">
+        <strong>String</strong>
+      </td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://leetcode.com/problems/reverse-string/description/" target="_blank">Reverse The String</a></td>
+      <td align="center">Easy</td>
+      <td align="center">🟢</td>
+      <td align="center">✅</td>
+      <td align="center"><a href="" target="_blank">Reverse The String</a></td>
+      <td align="center"><a href="#" target="_blank">Reverse The String</a></td>
+    </tr>
+
+
+    
     
   </tbody>
 </table>
