@@ -90,6 +90,7 @@ Feel free to open an issue to start a discussion or ask questions. You can reach
 <table>
   <thead>
     <tr>
+      <th>Serial No.</th>
       <th>Problem</th>
       <th>Difficulty</th>
       <th>Signal</th>
@@ -105,6 +106,7 @@ Feel free to open an issue to start a discussion or ask questions. You can reach
       </td>
     </tr>
     <tr>
+      <td align="center">01</td>
       <td align="center"><a href="https://www.codingninjas.com/studio/problems/selection-sort_624469?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf" target="_blank"> Selection Sort of Array</a></td>
       <td align="center">Easy</td>
       <td align="center">🟢</td>
@@ -113,6 +115,7 @@ Feel free to open an issue to start a discussion or ask questions. You can reach
       <td align="center"><a href="https://takeuforward.org/sorting/selection-sort-algorithm/" target="_blank"> Selection Sort of Array</a></td>
     </tr>
     <tr>
+      <td align="center">02</td>
       <td align="center"><a href="https://www.codingninjas.com/studio/problems/selection-sort_624469?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf" target="_blank"> Bubble Sort of Array</a></td>
       <td align="center">Easy</td>
       <td align="center">🟢</td>
@@ -121,6 +124,7 @@ Feel free to open an issue to start a discussion or ask questions. You can reach
       <td align="center"><a href="https://takeuforward.org/data-structure/bubble-sort-algorithm/" target="_blank"> Bubble Sort of Array</a></td>
     </tr>
     <tr>
+      <td align="center">03</td>
       <td align="center"><a href="https://www.codingninjas.com/studio/problems/insertion-sort_624381?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf" target="_blank">Insertion Sort of Array</a></td>
       <td align="center">Easy</td>
       <td align="center">🟢</td>
@@ -129,6 +133,7 @@ Feel free to open an issue to start a discussion or ask questions. You can reach
       <td align="center"><a href="https://takeuforward.org/data-structure/insertion-sort-algorithm/" target="_blank">Insertion Sort of Array</a></td>
     </tr>
     <tr>
+      <td align="center">04</td>
       <td align="center"><a href="https://www.codingninjas.com/studio/problems/merge-sort_5846?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf" target="_blank">Merge Sort of Array</a></td>
       <td align="center">Medium</td>
       <td align="center">🟡</td>
@@ -137,6 +142,7 @@ Feel free to open an issue to start a discussion or ask questions. You can reach
       <td align="center"><a href="https://takeuforward.org/data-structure/merge-sort-algorithm/" target="_blank">Merge Sort of Array</a></td>
     </tr>
     <tr>
+      <td align="center">05</td>
       <td align="center"><a href="https://www.codingninjas.com/studio/problems/quick-sort_5844?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf" target="_blank">Quick Sort of Array</a></td>
       <td align="center">Medium</td>
       <td align="center">🟡</td>
@@ -150,6 +156,7 @@ Feel free to open an issue to start a discussion or ask questions. You can reach
       </td>
     </tr>
     <tr>
+      <td align="center">01</td>
       <td align="center"><a href="https://leetcode.com/problems/reverse-string/description/" target="_blank">Reverse The String</a></td>
       <td align="center">Easy</td>
       <td align="center">🟢</td>
@@ -158,6 +165,7 @@ Feel free to open an issue to start a discussion or ask questions. You can reach
       <td align="center"><a href="#" target="_blank">Reverse The String</a></td>
     </tr>
      <tr>
+      <td align="center">02</td>
       <td align="center"><a href="https://leetcode.com/problems/valid-anagram/" target="_blank">Valid Anagram</a></td>
       <td align="center">Easy</td>
       <td align="center">🟢</td>
